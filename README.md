@@ -2,11 +2,11 @@
 
 Use VGG-16 and FCN-32 / FCN-8 models to do semantic segmentation on satellite images.
 
-![image](https://github.com/weifanhaha/semantic-segmentation/blob/master/images/fcn.png)
+![image](https://github.com/weifanhaha/semantic-segmentation/blob/master/images/semantic_segmentation.png)
 
 ## Model: Fully Convolutional Network - FCN32
 
-![image](https://github.com/weifanhaha/semantic-segmentation/blob/master/images/semantic_segmentation.png)
+![image](https://github.com/weifanhaha/semantic-segmentation/blob/master/images/fcn.png)
 
 Reference : [Long et al., “Fully Convolutional Networks for Semantic Segmentation”, CVPR 2015 (Best Paper)](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
 
